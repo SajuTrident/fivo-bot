@@ -1,0 +1,10 @@
+{
+  "name": "tpl-express-pro",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js",
+    "install-dep": "npm i --no-bin-links"
+  },
+  "dependencies": {}
+}
